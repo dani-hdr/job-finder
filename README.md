@@ -1,3 +1,9 @@
+This is a project inspired by [this](https://dribbble.com/shots/20074512-Carimodal-Job-Marketplace) ui/ux design
+See the live demo [here](https://job-finder-nine.vercel.app/) and give it a ⭐!
+
+## Are you hiring?
+I'm looking for an entry level job. If you've any opportunity, please let me know. 🙏
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
